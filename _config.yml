@@ -1,0 +1,6 @@
+title: SwaraTuner
+description: Privacy policy and information for the SwaraTuner app.
+markdown: kramdown
+exclude:
+  - LICENSE
+  - README.md
